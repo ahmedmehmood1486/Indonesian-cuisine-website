@@ -356,14 +356,14 @@ li {
     min-height: 105px;
     background-repeat: repeat-x;
     background-position: bottom;
-    background-image: url("Background_testimonial@3.25x.png");
+    background-image: url("Background_testimonial@3.25x.webp");
 }
 .bgTestimonial2{
     background-color: #76a956;
     min-height: 52px;
     background-repeat: repeat-x;
     background-position: bottom;
-    background-image: url("Background_testimonial@3.25x.png");
+    background-image: url("Background_testimonial@3.25x.webp");
 }
 
 /* Menu Starts Here !!! */
