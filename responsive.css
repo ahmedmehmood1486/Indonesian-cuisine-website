@@ -1,0 +1,481 @@
+@media only screen and (max-width: 480px) {
+    header{
+        flex-direction: column;
+        align-items: center;
+    }
+    .menu ul{
+        flex-direction: column;
+    } 
+
+
+    body{
+        border: 1px solid black;
+    }
+
+    /* Section Starting Here !!! */
+
+    .section {
+        background-image: linear-gradient(to bottom right, #537543, #7cb258);
+        display: flex;
+        background-image: url("Group 1@3.25x.png");
+        background-size: 100%;
+        background-color: #76a956;
+    }
+    .section h1 {
+        font-family: "Berkshire Swash", sans-serif;
+        font-size: 25px;
+        color: #ffffff;
+        padding-left: 3%;
+        padding-top: 2%;
+
+    }
+    
+    .section h2 {
+        font-family: "Berkshire Swash", sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        bottom: 50px;
+        padding-left: 15%;
+    }
+    
+    .section p {
+        font-size: 12px;
+        color: #ffffff;
+        padding-bottom: 50px;
+        padding-left: 3%;
+        max-width: 33%;
+        padding-bottom: 3%;
+    }
+    
+    .btn{
+        padding-left: 3%;
+    }
+    .btn input {
+        border: 1px solid #e6ca48;
+        border-radius: 32px;
+        font-size: 12px;
+        color: #3e5831;
+        min-height: 30px;
+        min-width: 80px;
+        background-color: #e6ca48;
+        cursor: pointer;
+
+    }
+    .section div:nth-child(1) {
+        padding-left: 15px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    
+    }
+
+    /* About Section Starts Here */
+
+    .AboutFood {
+        display: flex;
+        background-image: linear-gradient(to bottom right, #537543, #7cb258);
+        justify-content: flex-start;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        min-width: 400px;
+        margin-left: 0px;
+    }
+    
+    .content {
+        color: #3e5831;
+        background-color: #e6ca48;
+        padding-left: 22%;
+        max-width: 480px;
+        float: right;
+        padding-top: 10px;
+        padding-bottom: 22.9%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        max-height: 27px;
+    }
+    
+    .image_about img {
+        height: 35vw;
+        margin-left: 0%;
+        z-index: 999;
+        position:relative;
+        padding-left: 50%;
+    }
+    
+    .content h2 {
+        font-family: "Berkshire Swash", sans-serif;
+        font-size: 12px;
+    }
+    
+    .content h3 {
+        font-family: "Poppins", sans-serif;
+        font-size: 12px;
+        font-style: italic;
+    }
+    
+    .content p {
+        font-size: 10px;
+    }
+    
+    .content button {
+        border: none;
+        color: #3e5831;
+        font-size: 10px;
+        border: 1px solid #fff;
+        background-color: #fff;
+        padding: 3px 7px;
+        border-radius: 60px;
+    }
+    .content button a{
+        color: #3e5831;
+    }
+
+    /* Rating starting Here !!! */
+    .rating {
+        padding: 0px;
+        margin: 0;
+        background-color: #537543;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-top: 110px;
+        box-shadow: none;
+    }
+    
+    .star {
+        text-align: center;
+    }
+    
+    .star img {
+        max-width: 150px;
+        max-height: 150px;
+        padding-bottom: 3%;
+    }
+    
+    .star h3 {
+        font-size: 5vw;    
+        padding-bottom: 3%;
+    }
+    
+    .star p {
+        font-size: 3vw;
+        padding-bottom: 3%;
+    }
+    
+    /* Staff Starts Here !!! */
+    
+    
+    .staff {
+        background-color: #7aae57;
+        padding: 3%;
+        color: #fff;
+        text-align: center;
+        background-image: url("bg2@3.25x.png");
+        background-repeat: repeat-x; 
+        background-position: x;   
+    }
+    
+    .members {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+    
+    }
+    
+    .members img {
+        max-height: 597px;
+        max-width: 350px;
+    }
+    
+    .members h4 {
+        font-size: 25px;
+        position: relative;
+        top: -110px;
+        font-weight: 300;
+        text-align: center;
+    }
+    
+    .members p {
+        font-size: 17px !important;
+        position: relative;
+        top: -110px;
+        font-weight: 300;
+        text-align: center;
+    }
+    
+    .staff h2 {
+        font-size: 50px;
+        font-family: "Berkshire Swash", sans-serif;
+    }
+    
+    .staff p {
+        font-size: 16px;
+    }
+    .bg{
+        background-image: url("bg3@3.25x.png");
+        background-repeat: repeat-x;
+        background-position: bottom;
+        height: 50px;
+    }
+    
+    #staff-para {
+        font-size: 12px;
+        padding-left: 3%;
+        padding-right: 3%;
+        background-image: url("bg3@3.25x.png");
+        padding-bottom: 3%;
+    }
+    
+    /* Group 5 Starts Here !!! */
+    
+    .section5 {
+        background-color: #dd982c;
+        padding: 3%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .section5 div:nth-child(1){
+        padding-right: 0;
+        padding-right: 3px;
+    }
+    .section5 div:nth-child(2){
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        max-width: 480px;
+        padding-right: 5%;
+    }
+    .section5 div{
+        padding-right: 0;
+    }
+    .section5 div img {
+        max-height: 70%;
+        max-width: 50%;
+    }
+    
+    .section5 div h4 {
+        font-size: 12px;
+        color: #fff;
+    }
+    
+    .section5 div p {
+        font-size: 8px;
+        color: #fff;
+    }
+    
+    .section5 button{
+        border: 1px solid white;
+        background-color: white;
+        color: #3e5831;
+        padding: 2px 3px;
+        border-radius: 30px;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    /* Testimonial Starts Here !!! */
+    
+    .testimonial{
+        padding: 8% 3%;
+        color: #ffffff;
+        background-color: #537842;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        text-align: center;
+    
+    }
+    .testimonial h2{
+        font-size: 10vw;
+        font-family: "Berkshire Swash", sans-serif;
+        padding-bottom: 85px;
+    }
+    .testimonial p{
+        font-size: 5vw;
+        padding-bottom: 56px;
+    }
+    .container input{
+        min-height: 30px;
+        min-width: 30px;
+        appearance: none;
+        background-color: #fff;
+        border-radius: 100%;
+    
+    
+    }
+    .container input:checked{
+        background-color: #fff;
+        border: 4px solid #537842;
+        outline: 2px solid white;
+        padding: 2px;
+    }
+    .bgTestimonial{
+        background-color: #76a956;
+        min-height: 105px;
+        background-repeat: repeat-x;
+        background-position: bottom;
+        background-image: url("Background_testimonial@3.25x.png");
+    }
+    .bgTestimonial2{
+        background-color: #76a956;
+        min-height: 52px;
+        background-repeat: repeat-x;
+        background-position: bottom;
+        background-image: url("Background_testimonial@3.25x.png");
+    }
+    /* Menu Starts Here !!! */
+
+.menuHeadings{
+    background-color:  #e6ca48;
+    text-align: center;
+    padding: 3% 10% ;
+    color: #537942;
+}
+.menuHeadings h2{
+    font-size: 50px;
+}
+.menuHeadings h3{
+    font-size: 30px;
+}
+.menuHeadings p{
+    font-size: 16px;
+}
+
+/* Best Dishes Starts Here !!! */
+
+.BestDishesContainer{
+    background-image: linear-gradient(to left bottom, #60864c, #7cb258);
+}
+
+.bestDishes{
+    padding: 3% 5%;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.dish{
+    display: flex;
+    min-width: 45%;
+    position: static;
+    justify-content: space-between;
+    padding-bottom: 70px;
+
+}
+.DishContent{
+    max-width: 350px;
+}
+.DishContent h3{
+    font-size: 30px;
+    /* min-width: 270px; */
+}
+.DishContent h3:nth-of-type(2){
+    font-size: 58.33px;
+}
+
+.DishImage img{
+    max-height: 150px;
+    max-width: 150px;
+    padding-right: 5%;
+}
+#Radiosdish{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px 0px !important;
+    max-width: 480px;
+}
+
+/* Subscriber Section Starts Here !!!! */
+
+.Subscribe{
+    padding-top: 5%px;
+    color: #68914f;
+}
+.Subscribe h2{
+    font-size: 50px;
+    font-family: "Berkshire Swash", sans-serif;
+    text-align: center;
+    padding: 0px 0% 50px;
+}
+.Subscribe p{
+    font-size: 25px;
+    padding: 0 18px 55px;
+    text-align: center;
+}
+.Subscribe form{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 36px 50px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.Subscribe form label input{
+    min-width: 300px;
+    padding: 5px 10px;
+    border-radius: 30px;
+}
+#Email{
+    margin-bottom: 40px;
+    border: 3px solid #3e5831;
+    font-size: 12px;
+}
+#Email::placeholder{
+    color: #6d6d6d;
+    font-size: 12px;
+}
+#Email::selection{
+    color: white;
+}
+#Email:focus{
+    background-color: #537942;
+    color: white;
+    outline: 2px solid #537543;
+}
+input[value="Subscribe"]{
+    background-color: #537942;
+    padding: 8px 15px !important;
+    font-size: 12px; 
+    color: #fff;
+    border: none;
+}
+
+/* Footer Starts Here !!!! */
+
+Footer{
+    background-color: #537942;
+    padding: 8% 15%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    color: #fff;
+    font-size: 12px;
+}
+.titles ul li{
+    font-size: 12px;
+}
+.titles{
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.titles h3{
+    font-size: 30px;
+    font-family: "Berkshire Swash", sans-serif;
+    padding-bottom: 38px;
+}
+.titles p{
+max-width: 480px;
+padding-bottom: 45px;
+}
+.social img{
+    max-width: 30px;
+}
+    
+}

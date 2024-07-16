@@ -1,0 +1,917 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Berkshire_Swash,Poppins.zip
+FileModTime:1720648965
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BerkshireSwash-Regular
+FamilyName:Berkshire Swash
+StyleName:Regular
+FullName:Berkshire Swash Regular
+MenuName:Berkshire Swash
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Berkshire_Swash\BerkshireSwash-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:53032
+FileModTime:1692985884
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Berkshire Swash
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Berkshire_Swash\OFL.txt
+FileModTime:1720648964
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\OFL.txt
+FileModTime:1720648808
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Black
+FamilyName:Poppins
+StyleName:Black
+FullName:Poppins Black
+MenuName:Poppins Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:151396
+FileModTime:1711405566
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BlackItalic
+FamilyName:Poppins
+StyleName:Black Italic
+FullName:Poppins Black Italic
+MenuName:Poppins Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:171604
+FileModTime:1711405566
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Bold
+FamilyName:Poppins
+StyleName:Bold
+FullName:Poppins Bold
+MenuName:Poppins
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:153944
+FileModTime:1711405566
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BoldItalic
+FamilyName:Poppins
+StyleName:Bold Italic
+FullName:Poppins Bold Italic
+MenuName:Poppins
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:176588
+FileModTime:1711405566
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBold
+FamilyName:Poppins
+StyleName:ExtraBold
+FullName:Poppins ExtraBold
+MenuName:Poppins ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:152764
+FileModTime:1711405566
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBoldItalic
+FamilyName:Poppins
+StyleName:ExtraBold Italic
+FullName:Poppins ExtraBold Italic
+MenuName:Poppins ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:173916
+FileModTime:1711405566
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLight
+FamilyName:Poppins
+StyleName:ExtraLight
+FullName:Poppins ExtraLight
+MenuName:Poppins ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:161456
+FileModTime:1711405566
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLightItalic
+FamilyName:Poppins
+StyleName:ExtraLight Italic
+FullName:Poppins ExtraLight Italic
+MenuName:Poppins ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:186168
+FileModTime:1711405566
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Italic
+FamilyName:Poppins
+StyleName:Italic
+FullName:Poppins Italic
+MenuName:Poppins
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:182012
+FileModTime:1711405566
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Light
+FamilyName:Poppins
+StyleName:Light
+FullName:Poppins Light
+MenuName:Poppins Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:159892
+FileModTime:1711405566
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-LightItalic
+FamilyName:Poppins
+StyleName:Light Italic
+FullName:Poppins Light Italic
+MenuName:Poppins Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:184460
+FileModTime:1711405566
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Medium
+FamilyName:Poppins
+StyleName:Medium
+FullName:Poppins Medium
+MenuName:Poppins Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:156520
+FileModTime:1711405566
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-MediumItalic
+FamilyName:Poppins
+StyleName:Medium Italic
+FullName:Poppins Medium Italic
+MenuName:Poppins Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:180444
+FileModTime:1711405566
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Regular
+FamilyName:Poppins
+StyleName:Regular
+FullName:Poppins Regular
+MenuName:Poppins
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:158240
+FileModTime:1711405566
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBold
+FamilyName:Poppins
+StyleName:SemiBold
+FullName:Poppins SemiBold
+MenuName:Poppins SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:155232
+FileModTime:1711405566
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBoldItalic
+FamilyName:Poppins
+StyleName:SemiBold Italic
+FullName:Poppins SemiBold Italic
+MenuName:Poppins SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:178584
+FileModTime:1711405566
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Thin
+FamilyName:Poppins
+StyleName:Thin
+FullName:Poppins Thin
+MenuName:Poppins Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:161652
+FileModTime:1711405566
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ThinItalic
+FamilyName:Poppins
+StyleName:Thin Italic
+FullName:Poppins Thin Italic
+MenuName:Poppins Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:187044
+FileModTime:1711405566
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins.zip
+FileModTime:1720648810
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\OFL.txt
+FileModTime:1720648964
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Black
+FamilyName:Poppins
+StyleName:Black
+FullName:Poppins Black
+MenuName:Poppins Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:151396
+FileModTime:1711405566
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BlackItalic
+FamilyName:Poppins
+StyleName:Black Italic
+FullName:Poppins Black Italic
+MenuName:Poppins Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:171604
+FileModTime:1711405566
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Black
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Bold
+FamilyName:Poppins
+StyleName:Bold
+FullName:Poppins Bold
+MenuName:Poppins
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:153944
+FileModTime:1711405566
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-BoldItalic
+FamilyName:Poppins
+StyleName:Bold Italic
+FullName:Poppins Bold Italic
+MenuName:Poppins
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:176588
+FileModTime:1711405566
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBold
+FamilyName:Poppins
+StyleName:ExtraBold
+FullName:Poppins ExtraBold
+MenuName:Poppins ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:152764
+FileModTime:1711405566
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraBoldItalic
+FamilyName:Poppins
+StyleName:ExtraBold Italic
+FullName:Poppins ExtraBold Italic
+MenuName:Poppins ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:173916
+FileModTime:1711405566
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLight
+FamilyName:Poppins
+StyleName:ExtraLight
+FullName:Poppins ExtraLight
+MenuName:Poppins ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:161456
+FileModTime:1711405566
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ExtraLightItalic
+FamilyName:Poppins
+StyleName:ExtraLight Italic
+FullName:Poppins ExtraLight Italic
+MenuName:Poppins ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:186168
+FileModTime:1711405566
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins ExtraLight
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Italic
+FamilyName:Poppins
+StyleName:Italic
+FullName:Poppins Italic
+MenuName:Poppins
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:182012
+FileModTime:1711405566
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Light
+FamilyName:Poppins
+StyleName:Light
+FullName:Poppins Light
+MenuName:Poppins Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:159892
+FileModTime:1711405566
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-LightItalic
+FamilyName:Poppins
+StyleName:Light Italic
+FullName:Poppins Light Italic
+MenuName:Poppins Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:184460
+FileModTime:1711405566
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Light
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Medium
+FamilyName:Poppins
+StyleName:Medium
+FullName:Poppins Medium
+MenuName:Poppins Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:156520
+FileModTime:1711405566
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-MediumItalic
+FamilyName:Poppins
+StyleName:Medium Italic
+FullName:Poppins Medium Italic
+MenuName:Poppins Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:180444
+FileModTime:1711405566
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Medium
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Regular
+FamilyName:Poppins
+StyleName:Regular
+FullName:Poppins Regular
+MenuName:Poppins
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:158240
+FileModTime:1711405566
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBold
+FamilyName:Poppins
+StyleName:SemiBold
+FullName:Poppins SemiBold
+MenuName:Poppins SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:155232
+FileModTime:1711405566
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-SemiBoldItalic
+FamilyName:Poppins
+StyleName:SemiBold Italic
+FullName:Poppins SemiBold Italic
+MenuName:Poppins SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:178584
+FileModTime:1711405566
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins SemiBold
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-Thin
+FamilyName:Poppins
+StyleName:Thin
+FullName:Poppins Thin
+MenuName:Poppins Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:161652
+FileModTime:1711405566
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Poppins-ThinItalic
+FamilyName:Poppins
+StyleName:Thin Italic
+FullName:Poppins Thin Italic
+MenuName:Poppins Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Learning\Indonesian cuisine website\Font\Poppins\Poppins-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:187044
+FileModTime:1711405566
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Poppins Thin
+NameArray:0,Win,16,Poppins
+%EndFont
+
