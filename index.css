@@ -51,7 +51,7 @@ li {
     background-image: linear-gradient(to bottom right, #537543, #7cb258);
     display: flex;
    justify-content: space-between;
-    background-image: url("Group 1@3.25x.png");
+    background-image: url("Group 1@3.25x.webp");
     background-repeat: no-repeat;
     background-size: 99vw 38vw;
     background-color: #76a956;
@@ -216,7 +216,7 @@ li {
     padding: 60px 100px 140px 100px;
     color: #fff;
     text-align: center;
-    background-image: url("bg2@3.25x.png");
+    background-image: url("bg2@3.25x.webp");
     background-repeat: repeat-x; 
     background-position: x;   
 }
