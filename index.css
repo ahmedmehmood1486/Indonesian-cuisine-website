@@ -366,6 +366,12 @@ li {
     background-image: url("Background_testimonial@3.25x.webp");
 }
 
+.radios{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 590px 70px;
+}
+
 /* Menu Starts Here !!! */
 
 .menuHeadings{
