@@ -257,7 +257,7 @@ li {
     font-size: 22px;
 }
 .bg{
-    background-image: url("bg3@3.25x.png");
+    background-image: url("bg3@3.25x.webp");
     background-repeat: repeat-x;
     background-position: bottom;
     height: 50px;
@@ -267,7 +267,7 @@ li {
     font-size: 25px;
     padding-left: 120px;
     padding-right: 120px;
-    background-image: url("bg3@3.25x.png");
+    background-image: url("bg3@3.25x.webp");
 }
 
 /* Group 5 Starts Here !!! */
